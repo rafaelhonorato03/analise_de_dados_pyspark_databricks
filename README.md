@@ -47,6 +47,10 @@ A estrutura principal do projeto é organizada da seguinte forma:
    - Faça upload dos notebooks para o Databricks.
    - Configure os clusters e execute os notebooks.
 
+4. **Acesse o Notebook Publicado**:
+   - Você pode visualizar o notebook publicado diretamente no Databricks através do link abaixo:
+     [Notebook Publicado no Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/501167806304592/3509913413148908/3731144208576276/latest.html)
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
